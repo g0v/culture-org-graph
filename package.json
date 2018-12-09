@@ -1,0 +1,18 @@
+{
+  "name": "culture-org-graph",
+  "version": "1.0.0",
+  "description": "台灣文化機構、組織、個人關係圖",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Poga Po",
+  "license": "CC0",
+  "dependencies": {
+    "csv-stringify": "^5.1.1",
+    "node-html-parser": "^1.1.11",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
