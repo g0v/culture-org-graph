@@ -10,9 +10,12 @@
   "author": "Poga Po",
   "license": "CC0",
   "dependencies": {
+    "async-csv": "^2.0.0",
+    "axios": "^0.18.0",
     "csv-stringify": "^5.1.1",
     "node-html-parser": "^1.1.11",
     "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "xml-js": "^1.6.11"
   }
 }

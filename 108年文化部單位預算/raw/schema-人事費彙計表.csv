@@ -1,0 +1,8 @@
+﻿name,title
+level,(此報表無需使用此TAG)
+ba_objectno,預算科目編號(二級用途別)
+mi_objectname,預算科目名稱
+objectnoname,即ba_objectno+mi_objectname的連結字串，或者顯示「合計」
+budgetamt_sum,金額
+displaymemo,說明
+btn_memo,(此報表無需使用此TAG)

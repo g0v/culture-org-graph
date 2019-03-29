@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tables>
+    <BCTMOFFICE>
+        <BCTMOFFICE_row>
+            <m33_fiscalyear>108</m33_fiscalyear>
+            <m33_reportno>辦公房舍      </m33_reportno>
+            <m33_level1>001</m33_level1>
+            <m33_level2/>
+            <m33_level3/>
+            <m33_level4/>
+            <m33_objectname>辦公房屋</m33_objectname>
+            <m33_objectno>07320100</m33_objectno>
+            <m33_detailid>0</m33_detailid>
+            <br_fiscalyear>108</br_fiscalyear>
+            <br_fundkind>1</br_fundkind>
+            <br_budgetkind>1</br_budgetkind>
+            <br_specialbudgetno/>
+            <br_agenno>61001</br_agenno>
+            <br_agentype>B</br_agentype>
+            <br_budgetstate>2         </br_budgetstate>
+            <br_objectno>07320100  </br_objectno>
+            <br_holds1>18</br_holds1>
+            <br_area1>101717.45</br_area1>
+            <br_bookvalue1>7678322000.00</br_bookvalue1>
+            <br_amtyear1>3082000.00</br_amtyear1>
+            <br_holds2>4</br_holds2>
+            <br_area2>1376.00</br_area2>
+            <br_amtyear2>50000.00</br_amtyear2>
+            <br_holds3>0</br_holds3>
+            <br_area3>0.00</br_area3>
+            <br_deposit>0.00</br_deposit>
+            <br_rental>0.00</br_rental>
+            <br_amtyear3>0.00</br_amtyear3>
+            <br_area4>103093.45</br_area4>
+            <br_deposit4>0.00</br_deposit4>
+            <br_rental4>0.00</br_rental4>
+            <br_amtyear4>3132000.00</br_amtyear4>
+            <br_versiondate/>
+            <br_text/>
+        </BCTMOFFICE_row>
+        <BCTMOFFICE_row>
+            <m33_fiscalyear>108</m33_fiscalyear>
+            <m33_reportno>辦公房舍      </m33_reportno>
+            <m33_level1>002</m33_level1>
+            <m33_level2/>
+            <m33_level3/>
+            <m33_level4/>
+            <m33_objectname>機關宿舍</m33_objectname>
+            <m33_objectno>07320200</m33_objectno>
+            <m33_detailid>1</m33_detailid>
+            <br_fiscalyear>108</br_fiscalyear>
+            <br_fundkind>1</br_fundkind>
+            <br_budgetkind>1</br_budgetkind>
+            <br_specialbudgetno/>
+            <br_agenno>61001</br_agenno>
+            <br_agentype>B</br_agentype>
+            <br_budgetstate>2         </br_budgetstate>
+            <br_objectno>07320200  </br_objectno>
+            <br_holds1>1</br_holds1>
+            <br_area1>150.71</br_area1>
+            <br_bookvalue1>3459000.00</br_bookvalue1>
+            <br_amtyear1>200000.00</br_amtyear1>
+            <br_holds2>3</br_holds2>
+            <br_area2>294.77</br_area2>
+            <br_amtyear2>150000.00</br_amtyear2>
+            <br_holds3>0</br_holds3>
+            <br_area3>0.00</br_area3>
+            <br_deposit>0.00</br_deposit>
+            <br_rental>0.00</br_rental>
+            <br_amtyear3>0.00</br_amtyear3>
+            <br_area4>445.48</br_area4>
+            <br_deposit4>0.00</br_deposit4>
+            <br_rental4>0.00</br_rental4>
+            <br_amtyear4>350000.00</br_amtyear4>
+            <br_versiondate/>
+            <br_text/>
+        </BCTMOFFICE_row>
+        <BCTMOFFICE_row>
+            <m33_fiscalyear>108</m33_fiscalyear>
+            <m33_reportno>辦公房舍      </m33_reportno>
+            <m33_level1>002</m33_level1>
+            <m33_level2>001</m33_level2>
+            <m33_level3/>
+            <m33_level4/>
+            <m33_objectname>首長宿舍</m33_objectname>
+            <m33_objectno>07320201</m33_objectno>
+            <m33_detailid>0</m33_detailid>
+            <br_fiscalyear>108</br_fiscalyear>
+            <br_fundkind>1</br_fundkind>
+            <br_budgetkind>1</br_budgetkind>
+            <br_specialbudgetno/>
+            <br_agenno>61001</br_agenno>
+            <br_agentype>B</br_agentype>
+            <br_budgetstate>2         </br_budgetstate>
+            <br_objectno>07320201  </br_objectno>
+            <br_holds1>1</br_holds1>
+            <br_area1>150.71</br_area1>
+            <br_bookvalue1>3459000.00</br_bookvalue1>
+            <br_amtyear1>200000.00</br_amtyear1>
+            <br_holds2>3</br_holds2>
+            <br_area2>294.77</br_area2>
+            <br_amtyear2>150000.00</br_amtyear2>
+            <br_holds3>0</br_holds3>
+            <br_area3>0.00</br_area3>
+            <br_deposit>0.00</br_deposit>
+            <br_rental>0.00</br_rental>
+            <br_amtyear3>0.00</br_amtyear3>
+            <br_area4>445.48</br_area4>
+            <br_deposit4>0.00</br_deposit4>
+            <br_rental4>0.00</br_rental4>
+            <br_amtyear4>350000.00</br_amtyear4>
+            <br_versiondate/>
+            <br_text/>
+        </BCTMOFFICE_row>
+        <BCTMOFFICE_row>
+            <m33_fiscalyear>108</m33_fiscalyear>
+            <m33_reportno>辦公房舍      </m33_reportno>
+            <m33_level1>002</m33_level1>
+            <m33_level2>002</m33_level2>
+            <m33_level3/>
+            <m33_level4/>
+            <m33_objectname>單房間職務宿舍</m33_objectname>
+            <m33_objectno>07320202</m33_objectno>
+            <m33_detailid>0</m33_detailid>
+            <br_fiscalyear>108</br_fiscalyear>
+            <br_fundkind>1</br_fundkind>
+            <br_budgetkind>1</br_budgetkind>
+            <br_specialbudgetno/>
+            <br_agenno>61001</br_agenno>
+            <br_agentype>B</br_agentype>
+            <br_budgetstate>2         </br_budgetstate>
+            <br_objectno>07320202  </br_objectno>
+            <br_holds1>0</br_holds1>
+            <br_area1>0.00</br_area1>
+            <br_bookvalue1>0.00</br_bookvalue1>
+            <br_amtyear1>0.00</br_amtyear1>
+            <br_holds2>0</br_holds2>
+            <br_area2>0.00</br_area2>
+            <br_amtyear2>0.00</br_amtyear2>
+            <br_holds3>0</br_holds3>
+            <br_area3>0.00</br_area3>
+            <br_deposit>0.00</br_deposit>
+            <br_rental>0.00</br_rental>
+            <br_amtyear3>0.00</br_amtyear3>
+            <br_area4>0.00</br_area4>
+            <br_deposit4>0.00</br_deposit4>
+            <br_rental4>0.00</br_rental4>
+            <br_amtyear4>0.00</br_amtyear4>
+            <br_versiondate/>
+            <br_text/>
+        </BCTMOFFICE_row>
+        <BCTMOFFICE_row>
+            <m33_fiscalyear>108</m33_fiscalyear>
+            <m33_reportno>辦公房舍      </m33_reportno>
+            <m33_level1>002</m33_level1>
+            <m33_level2>003</m33_level2>
+            <m33_level3/>
+            <m33_level4/>
+            <m33_objectname>多房間職務宿舍</m33_objectname>
+            <m33_objectno>07320203</m33_objectno>
+            <m33_detailid>0</m33_detailid>
+            <br_fiscalyear>108</br_fiscalyear>
+            <br_fundkind>1</br_fundkind>
+            <br_budgetkind>1</br_budgetkind>
+            <br_specialbudgetno/>
+            <br_agenno>61001</br_agenno>
+            <br_agentype>B</br_agentype>
+            <br_budgetstate>2         </br_budgetstate>
+            <br_objectno>07320203  </br_objectno>
+            <br_holds1>0</br_holds1>
+            <br_area1>0.00</br_area1>
+            <br_bookvalue1>0.00</br_bookvalue1>
+            <br_amtyear1>0.00</br_amtyear1>
+            <br_holds2>0</br_holds2>
+            <br_area2>0.00</br_area2>
+            <br_amtyear2>0.00</br_amtyear2>
+            <br_holds3>0</br_holds3>
+            <br_area3>0.00</br_area3>
+            <br_deposit>0.00</br_deposit>
+            <br_rental>0.00</br_rental>
+            <br_amtyear3>0.00</br_amtyear3>
+            <br_area4>0.00</br_area4>
+            <br_deposit4>0.00</br_deposit4>
+            <br_rental4>0.00</br_rental4>
+            <br_amtyear4>0.00</br_amtyear4>
+            <br_versiondate/>
+            <br_text/>
+        </BCTMOFFICE_row>
+        <BCTMOFFICE_row>
+            <m33_fiscalyear>108</m33_fiscalyear>
+            <m33_reportno>辦公房舍      </m33_reportno>
+            <m33_level1>003</m33_level1>
+            <m33_level2/>
+            <m33_level3/>
+            <m33_level4/>
+            <m33_objectname>其他　　</m33_objectname>
+            <m33_objectno>07321000</m33_objectno>
+            <m33_detailid>0</m33_detailid>
+            <br_fiscalyear>108</br_fiscalyear>
+            <br_fundkind>1</br_fundkind>
+            <br_budgetkind>1</br_budgetkind>
+            <br_specialbudgetno/>
+            <br_agenno>61001</br_agenno>
+            <br_agentype>B</br_agentype>
+            <br_budgetstate>2         </br_budgetstate>
+            <br_objectno>07321000  </br_objectno>
+            <br_holds1>86</br_holds1>
+            <br_area1>80138.64</br_area1>
+            <br_bookvalue1>452057000.00</br_bookvalue1>
+            <br_amtyear1>446000.00</br_amtyear1>
+            <br_holds2>0</br_holds2>
+            <br_area2>0.00</br_area2>
+            <br_amtyear2>0.00</br_amtyear2>
+            <br_holds3>0</br_holds3>
+            <br_area3>0.00</br_area3>
+            <br_deposit>0.00</br_deposit>
+            <br_rental>0.00</br_rental>
+            <br_amtyear3>0.00</br_amtyear3>
+            <br_area4>80138.64</br_area4>
+            <br_deposit4>0.00</br_deposit4>
+            <br_rental4>0.00</br_rental4>
+            <br_amtyear4>446000.00</br_amtyear4>
+            <br_versiondate/>
+            <br_text/>
+        </BCTMOFFICE_row>
+    </BCTMOFFICE>
+</tables>

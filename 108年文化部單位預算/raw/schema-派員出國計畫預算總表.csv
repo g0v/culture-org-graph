@@ -1,0 +1,17 @@
+﻿name,title
+b07_fiscalyear,會計年度
+b07_fundkind,(此報表無需使用此TAG)
+b07_budgetkind,(此報表無需使用此TAG)
+b07_specialbudgetno,(此報表無需使用此TAG)
+b07_agenno,機關編號
+b07_agentype,機關業務別
+b07_budgetstate,預算階段
+b07_projtype,名稱
+b07_abroadplan,(此報表無需使用此TAG)
+b07_items,上年度計畫項數
+b07_daypersons,上年度核定人天
+b07_budgetamt,上年度預算數(元)
+b07_versiondate,(此報表無需使用此TAG)
+this_items,本年度計畫項數
+this_daypersons,本年度核定人天
+this_budgetamt,本年度預算數(元)

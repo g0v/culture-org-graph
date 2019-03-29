@@ -1,0 +1,13 @@
+﻿name,title
+budgetno,預算科目編號
+agenno,機關編號
+agentype,機關業務別
+mh_budgetname,預算科目名稱
+displayname,預算科目名稱
+budgetno_conver,預算科目編號
+tyear_amt,本年度預算數
+lyear_amt,上年度預算數
+byear_amt,前年度決算數
+b_amt,本年度節與上年度比較
+bc_content,說明文字
+memo,(此報表無需使用此TAG)

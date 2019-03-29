@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tables>
+    <BCTDYEARPLAN>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>01</b06_planno>
+            <b06_planname>社區營造三期及村落文化發展計畫</b06_planname>
+            <b06_startyear>105</b06_startyear>
+            <b06_endyear>110</b06_endyear>
+            <b06_budgetamt>2050000000.00</b06_budgetamt>
+            <b06_amt1>596178000.00</b06_amt1>
+            <b06_amt2>284908000.00</b06_amt2>
+            <b06_amt3>280244000.00</b06_amt3>
+            <b06_amt4>888670000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院104年10月15日院臺文字第1040054531號函核定。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「文化資源業務推動與輔導」科目280,244千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>5.961780000000</b06_amt1_display>
+            <b06_amt2_display>2.849080000000</b06_amt2_display>
+            <b06_amt3_display>2.802440000000</b06_amt3_display>
+            <b06_amt4_display>8.886700000000</b06_amt4_display>
+            <b06_budgetamt_display>20.500000000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>02</b06_planno>
+            <b06_planname>國立歷史博物館升級發展計畫</b06_planname>
+            <b06_startyear>104</b06_startyear>
+            <b06_endyear>111</b06_endyear>
+            <b06_budgetamt>853515000.00</b06_budgetamt>
+            <b06_amt1>133599000.00</b06_amt1>
+            <b06_amt2>69100000.00</b06_amt2>
+            <b06_amt3>318860000.00</b06_amt3>
+            <b06_amt4>331956000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院104年5月25日院臺文字第1040025006號函，及106年8月14日院臺文字第1060184223號函核定。&amp;lt;#H1&amp;gt;本計畫總經費1,004,135千元，中央公務預算負擔853,515千元。&amp;lt;#H1&amp;gt;本計畫108年度預算分別編列於「文化資源業務推動與輔導」科目73,000千元，及「國立文化機構作業基金」科目245,860千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>1.335990000000</b06_amt1_display>
+            <b06_amt2_display>0.691000000000</b06_amt2_display>
+            <b06_amt3_display>3.188600000000</b06_amt3_display>
+            <b06_amt4_display>3.319560000000</b06_amt4_display>
+            <b06_budgetamt_display>8.535150000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>03</b06_planno>
+            <b06_planname>臺北機廠活化轉型國家鐵道博物館園區實施計畫</b06_planname>
+            <b06_startyear>106</b06_startyear>
+            <b06_endyear>115</b06_endyear>
+            <b06_budgetamt>6559430000.00</b06_budgetamt>
+            <b06_amt1>774883000.00</b06_amt1>
+            <b06_amt2>871482000.00</b06_amt2>
+            <b06_amt3>959605000.00</b06_amt3>
+            <b06_amt4>3953460000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院105年12月13日院臺交字第1050049161號函核定。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「文化資源業務推動與輔導」科目959,605千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>7.748830000000</b06_amt1_display>
+            <b06_amt2_display>8.714820000000</b06_amt2_display>
+            <b06_amt3_display>9.596050000000</b06_amt3_display>
+            <b06_amt4_display>39.534600000000</b06_amt4_display>
+            <b06_budgetamt_display>65.594300000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>04</b06_planno>
+            <b06_planname>臺灣文化生活品牌國際化計畫</b06_planname>
+            <b06_startyear>106</b06_startyear>
+            <b06_endyear>109</b06_endyear>
+            <b06_budgetamt>585000000.00</b06_budgetamt>
+            <b06_amt1>136471000.00</b06_amt1>
+            <b06_amt2>90674000.00</b06_amt2>
+            <b06_amt3>90674000.00</b06_amt3>
+            <b06_amt4>267181000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院105年9月29日院臺文字第1050037326號函核定。&amp;lt;#H1&amp;gt;本計畫108年度預算分別編列於文化部「文化創意產業發展業務」科目29,302千元、「視覺及表演藝術之策劃與發展」科目13,853千元、「臺灣文學館業務」科目5,443千元，文化資產局「文化資產業務」科目28,446千元，與國立臺灣美術館及所屬「美術館業務」科目13,630千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>1.364710000000</b06_amt1_display>
+            <b06_amt2_display>0.906740000000</b06_amt2_display>
+            <b06_amt3_display>0.906740000000</b06_amt3_display>
+            <b06_amt4_display>2.671810000000</b06_amt4_display>
+            <b06_budgetamt_display>5.850000000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>05</b06_planno>
+            <b06_planname>空總文化實驗室第一期發展整體計畫（107-108年）</b06_planname>
+            <b06_startyear>107</b06_startyear>
+            <b06_endyear>108</b06_endyear>
+            <b06_budgetamt>601451000.00</b06_budgetamt>
+            <b06_amt1>0.00</b06_amt1>
+            <b06_amt2>282961000.00</b06_amt2>
+            <b06_amt3>305182000.00</b06_amt3>
+            <b06_amt4>13308000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院107年2月26日院臺文字第1070001000號函核定。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「文化創意產業發展業務」科目305,182千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>0E-12</b06_amt1_display>
+            <b06_amt2_display>2.829610000000</b06_amt2_display>
+            <b06_amt3_display>3.051820000000</b06_amt3_display>
+            <b06_amt4_display>0.133080000000</b06_amt4_display>
+            <b06_budgetamt_display>6.014510000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>06</b06_planno>
+            <b06_planname>北部流行音樂中心計畫</b06_planname>
+            <b06_startyear>94</b06_startyear>
+            <b06_endyear>108</b06_endyear>
+            <b06_budgetamt>5824280000.00</b06_budgetamt>
+            <b06_amt1>3309070000.00</b06_amt1>
+            <b06_amt2>827010000.00</b06_amt2>
+            <b06_amt3>1638850000.00</b06_amt3>
+            <b06_amt4>49350000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院97年12月31日院臺文字第0970062062號函、102年8月13日院臺文字第1020048541號函、103年12月18日院臺文字第1030071899號函，及107年7月31日院臺文字第1070026038號函核定。&amp;lt;#H1&amp;gt;本計畫總經費6,079,550千元，中央公務預算負擔5,824,280千元。&amp;lt;#H1&amp;gt;106及以前年度預算數編列4,337,094千元，扣除繳庫數1,028,051千元，計列3,309,043千元。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「影視及流行音樂策劃與發展」科目1,638,850千元。</b06_memo>
+            <b06_upduserno>GBA</b06_upduserno>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>33.090700000000</b06_amt1_display>
+            <b06_amt2_display>8.270100000000</b06_amt2_display>
+            <b06_amt3_display>16.388500000000</b06_amt3_display>
+            <b06_amt4_display>0.493500000000</b06_amt4_display>
+            <b06_budgetamt_display>58.242800000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>07</b06_planno>
+            <b06_planname>海洋文化及流行音樂中心計畫</b06_planname>
+            <b06_startyear>98</b06_startyear>
+            <b06_endyear>108</b06_endyear>
+            <b06_budgetamt>6918212000.00</b06_budgetamt>
+            <b06_amt1>3736821000.00</b06_amt1>
+            <b06_amt2>1592491000.00</b06_amt2>
+            <b06_amt3>1542351000.00</b06_amt3>
+            <b06_amt4>46549000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院98年10月1日院臺文字第0980060519號函、104年12月25日院臺文字第1040065553號函，及107年8月7日院臺文字第1070027798號函核定。&amp;lt;#H1&amp;gt;本計畫總經費6,956,441千元，中央公務預算負擔6,918,212千元。&amp;lt;#H1&amp;gt;106及以前年度預算數編列4,468,960千元，扣除繳庫數732,054千元，計列3,736,906千元。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「影視及流行音樂策劃與發展」科目1,542,351千元。</b06_memo>
+            <b06_upduserno>GBA</b06_upduserno>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>37.368210000000</b06_amt1_display>
+            <b06_amt2_display>15.924910000000</b06_amt2_display>
+            <b06_amt3_display>15.423510000000</b06_amt3_display>
+            <b06_amt4_display>0.465490000000</b06_amt4_display>
+            <b06_budgetamt_display>69.182120000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>08</b06_planno>
+            <b06_planname>公共電視內容產製與應用計畫</b06_planname>
+            <b06_startyear>106</b06_startyear>
+            <b06_endyear>109</b06_endyear>
+            <b06_budgetamt>2200000000.00</b06_budgetamt>
+            <b06_amt1>180750000.00</b06_amt1>
+            <b06_amt2>207950000.00</b06_amt2>
+            <b06_amt3>516432000.00</b06_amt3>
+            <b06_amt4>1294868000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院105年8月9日院臺科字第1050029425號函核定，已函報行政院修正計畫。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「影視及流行音樂策劃與發展」科目516,432千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>1.807500000000</b06_amt1_display>
+            <b06_amt2_display>2.079500000000</b06_amt2_display>
+            <b06_amt3_display>5.164320000000</b06_amt3_display>
+            <b06_amt4_display>12.948680000000</b06_amt4_display>
+            <b06_budgetamt_display>22.000000000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>09</b06_planno>
+            <b06_planname>國家電影中心裝修、設備採購及初期維運計畫</b06_planname>
+            <b06_startyear>108</b06_startyear>
+            <b06_endyear>111</b06_endyear>
+            <b06_budgetamt>271300000.00</b06_budgetamt>
+            <b06_amt1>0.00</b06_amt1>
+            <b06_amt2>200000.00</b06_amt2>
+            <b06_amt3>5700000.00</b06_amt3>
+            <b06_amt4>265400000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院107年6月13日院臺文字第1070090967號函核定。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「影視及流行音樂策劃與發展」科目5,700千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>0E-12</b06_amt1_display>
+            <b06_amt2_display>0.002000000000</b06_amt2_display>
+            <b06_amt3_display>0.057000000000</b06_amt3_display>
+            <b06_amt4_display>2.654000000000</b06_amt4_display>
+            <b06_budgetamt_display>2.713000000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>10</b06_planno>
+            <b06_planname>出版產業振興方案106-109年中程計畫</b06_planname>
+            <b06_startyear>106</b06_startyear>
+            <b06_endyear>109</b06_endyear>
+            <b06_budgetamt>1209940000.00</b06_budgetamt>
+            <b06_amt1>91500000.00</b06_amt1>
+            <b06_amt2>90360000.00</b06_amt2>
+            <b06_amt3>100460000.00</b06_amt3>
+            <b06_amt4>927620000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院105年9月1日院臺文字第1050033679號函核定。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「人文文學及出版業務推展與輔導」科目100,460千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>0.915000000000</b06_amt1_display>
+            <b06_amt2_display>0.903600000000</b06_amt2_display>
+            <b06_amt3_display>1.004600000000</b06_amt3_display>
+            <b06_amt4_display>9.276200000000</b06_amt4_display>
+            <b06_budgetamt_display>12.099400000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>11</b06_planno>
+            <b06_planname>國家漫畫博物館計畫</b06_planname>
+            <b06_startyear>106</b06_startyear>
+            <b06_endyear>111</b06_endyear>
+            <b06_budgetamt>1150000000.00</b06_budgetamt>
+            <b06_amt1>50000000.00</b06_amt1>
+            <b06_amt2>5000000.00</b06_amt2>
+            <b06_amt3>286391000.00</b06_amt3>
+            <b06_amt4>808609000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院106年11月3日院臺文字第1060035654號函核定。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「人文文學及出版業務推展與輔導」科目286,391千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>0.500000000000</b06_amt1_display>
+            <b06_amt2_display>0.050000000000</b06_amt2_display>
+            <b06_amt3_display>2.863910000000</b06_amt3_display>
+            <b06_amt4_display>8.086090000000</b06_amt4_display>
+            <b06_budgetamt_display>11.500000000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>12</b06_planno>
+            <b06_planname>國家攝影資產搶救及建置攝影文化中心計畫</b06_planname>
+            <b06_startyear>104</b06_startyear>
+            <b06_endyear>110</b06_endyear>
+            <b06_budgetamt>735276000.00</b06_budgetamt>
+            <b06_amt1>272909000.00</b06_amt1>
+            <b06_amt2>105280000.00</b06_amt2>
+            <b06_amt3>119953000.00</b06_amt3>
+            <b06_amt4>237134000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院104年3月19日院臺文字第1040009873號函、106年12月8日院臺文字第1060037400號函，及107年4月20日院臺文字第1070012218號函核定。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「視覺及表演藝術之策劃與發展」科目119,953千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>2.729090000000</b06_amt1_display>
+            <b06_amt2_display>1.052800000000</b06_amt2_display>
+            <b06_amt3_display>1.199530000000</b06_amt3_display>
+            <b06_amt4_display>2.371340000000</b06_amt4_display>
+            <b06_budgetamt_display>7.352760000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>13</b06_planno>
+            <b06_planname>多元文化交織．古蹟風華再現─中正紀念堂服務升級計畫</b06_planname>
+            <b06_startyear>104</b06_startyear>
+            <b06_endyear>116</b06_endyear>
+            <b06_budgetamt>893211000.00</b06_budgetamt>
+            <b06_amt1>213758000.00</b06_amt1>
+            <b06_amt2>36454000.00</b06_amt2>
+            <b06_amt3>25261000.00</b06_amt3>
+            <b06_amt4>617738000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院104年8月5日院臺文字第1040040951號函，及106年9月4日院臺文字第1060026175號函核定。&amp;lt;#H1&amp;gt;本計畫總經費1,050,960千元，中央公務預算負擔893,211千元。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「國立文化機構作業基金」科目25,261千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>2.137580000000</b06_amt1_display>
+            <b06_amt2_display>0.364540000000</b06_amt2_display>
+            <b06_amt3_display>0.252610000000</b06_amt3_display>
+            <b06_amt4_display>6.177380000000</b06_amt4_display>
+            <b06_budgetamt_display>8.932110000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+        <BCTDYEARPLAN_row>
+            <b06_fiscalyear>108</b06_fiscalyear>
+            <b06_fundkind>1</b06_fundkind>
+            <b06_budgetkind>1         </b06_budgetkind>
+            <b06_specialbudgetno/>
+            <b06_agenno>61001     </b06_agenno>
+            <b06_agentype>B         </b06_agentype>
+            <b06_budgetstate>2</b06_budgetstate>
+            <b06_planno>14</b06_planno>
+            <b06_planname>國立國父紀念館跨域加值計畫</b06_planname>
+            <b06_startyear>104</b06_startyear>
+            <b06_endyear>111</b06_endyear>
+            <b06_budgetamt>990926000.00</b06_budgetamt>
+            <b06_amt1>164198000.00</b06_amt1>
+            <b06_amt2>5200000.00</b06_amt2>
+            <b06_amt3>8700000.00</b06_amt3>
+            <b06_amt4>812828000.00</b06_amt4>
+            <b06_memo>&amp;lt;#H1&amp;gt;行政院105年1月29日院臺文字第1050002625號函，及106年9月28日院臺文字第1060030066號函核定。&amp;lt;#H1&amp;gt;本計畫總經費1,166,070千元，中央公務預算負擔990,926千元。&amp;lt;#H1&amp;gt;本計畫108年度預算編列於「藝術業務推展與輔導」科目8,700千元。</b06_memo>
+            <b06_upduserno/>
+            <b06_upddatetime/>
+            <b06_versiondate/>
+            <b06_amt1_display>1.641980000000</b06_amt1_display>
+            <b06_amt2_display>0.052000000000</b06_amt2_display>
+            <b06_amt3_display>0.087000000000</b06_amt3_display>
+            <b06_amt4_display>8.128280000000</b06_amt4_display>
+            <b06_budgetamt_display>9.909260000000</b06_budgetamt_display>
+        </BCTDYEARPLAN_row>
+    </BCTDYEARPLAN>
+</tables>
